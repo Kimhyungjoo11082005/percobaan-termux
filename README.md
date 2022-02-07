@@ -1,0 +1,2 @@
+# percobaan-termux
+belajar termux
